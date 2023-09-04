@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/ChainOfResponsibility/ChainOfResponsibility.iml" filepath="$PROJECT_DIR$/Behavioral DP/ChainOfResponsibility/ChainOfResponsibility.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Facade/Facade.iml" filepath="$PROJECT_DIR$/Structual DP/Facade/Facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Interpreter/Interpreter.iml" filepath="$PROJECT_DIR$/Behavioral DP/Interpreter/Interpreter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Iterator/Iterator.iml" filepath="$PROJECT_DIR$/Behavioral DP/Iterator/Iterator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Object Pool/Object Pool.iml" filepath="$PROJECT_DIR$/Creational DP/Object Pool/Object Pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Simple Factory/Simple Factory.iml" filepath="$PROJECT_DIR$/Creational DP/Simple Factory/Simple Factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Command/impl/impl.iml" filepath="$PROJECT_DIR$/Behavioral DP/Command/impl/impl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Flyweight/impl1/impl1.iml" filepath="$PROJECT_DIR$/Structual DP/Flyweight/impl1/impl1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Decorator/impl1/impl11.iml" filepath="$PROJECT_DIR$/Structual DP/Decorator/impl1/impl11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Composite/impl1/impl110.iml" filepath="$PROJECT_DIR$/Structual DP/Composite/impl1/impl110.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Adapter/impl1/impl111.iml" filepath="$PROJECT_DIR$/Structual DP/Adapter/impl1/impl111.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Builder/impl1/impl112.iml" filepath="$PROJECT_DIR$/Creational DP/Builder/impl1/impl112.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Observer/impl1/impl12.iml" filepath="$PROJECT_DIR$/Behavioral DP/Observer/impl1/impl12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Proxy/impl1/impl13.iml" filepath="$PROJECT_DIR$/Structual DP/Proxy/impl1/impl13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Abstract Factory/impl1/impl14.iml" filepath="$PROJECT_DIR$/Creational DP/Abstract Factory/impl1/impl14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Bridge/impl1/impl15.iml" filepath="$PROJECT_DIR$/Structual DP/Bridge/impl1/impl15.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Factory Method/impl1/impl16.iml" filepath="$PROJECT_DIR$/Creational DP/Factory Method/impl1/impl16.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Mediator/impl1/impl17.iml" filepath="$PROJECT_DIR$/Behavioral DP/Mediator/impl1/impl17.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Prototype/impl1/impl18.iml" filepath="$PROJECT_DIR$/Creational DP/Prototype/impl1/impl18.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Memento/impl1/impl19.iml" filepath="$PROJECT_DIR$/Behavioral DP/Memento/impl1/impl19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Flyweight/impl2/impl2.iml" filepath="$PROJECT_DIR$/Structual DP/Flyweight/impl2/impl2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Observer/impl2/impl21.iml" filepath="$PROJECT_DIR$/Behavioral DP/Observer/impl2/impl21.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Memento/impl2/impl210.iml" filepath="$PROJECT_DIR$/Behavioral DP/Memento/impl2/impl210.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Command/impl2/impl211.iml" filepath="$PROJECT_DIR$/Behavioral DP/Command/impl2/impl211.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Adapter/impl2/impl212.iml" filepath="$PROJECT_DIR$/Structual DP/Adapter/impl2/impl212.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Builder/impl2/impl213.iml" filepath="$PROJECT_DIR$/Creational DP/Builder/impl2/impl213.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Proxy/impl2/impl22.iml" filepath="$PROJECT_DIR$/Structual DP/Proxy/impl2/impl22.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Abstract Factory/impl2/impl23.iml" filepath="$PROJECT_DIR$/Creational DP/Abstract Factory/impl2/impl23.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Composite/impl2/impl24.iml" filepath="$PROJECT_DIR$/Structual DP/Composite/impl2/impl24.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Bridge/impl2/impl25.iml" filepath="$PROJECT_DIR$/Structual DP/Bridge/impl2/impl25.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Factory Method/impl2/impl26.iml" filepath="$PROJECT_DIR$/Creational DP/Factory Method/impl2/impl26.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Behavioral DP/Mediator/impl2/impl27.iml" filepath="$PROJECT_DIR$/Behavioral DP/Mediator/impl2/impl27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Prototype/impl2/impl28.iml" filepath="$PROJECT_DIR$/Creational DP/Prototype/impl2/impl28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Singleton/impl2/impl29.iml" filepath="$PROJECT_DIR$/Creational DP/Singleton/impl2/impl29.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Decorator/impl3/impl3.iml" filepath="$PROJECT_DIR$/Structual DP/Decorator/impl3/impl3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Structual DP/Decorator/impl4/impl4.iml" filepath="$PROJECT_DIR$/Structual DP/Decorator/impl4/impl4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Creational DP/Singleton/implementations/implementations.iml" filepath="$PROJECT_DIR$/Creational DP/Singleton/implementations/implementations.iml" />
+    </modules>
+  </component>
+</project>
